@@ -7,9 +7,9 @@ As funções no ES5 possuiam o jeito tradicional de serem declaradas, conforme n
 var soma = function(a, b) {
     return a + b;
 }
-
+```
 ou 
-
+```
 function soma(a, b) {
     return a + b;
 }
