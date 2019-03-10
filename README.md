@@ -4,20 +4,20 @@ Neste repositório há exemplos das modificações adicionadas ao Javascript a p
 
 ### Novos recursos adicionados:
 
-* Suporte para constantes;
-* Bloco de escopo;
-* Função Lambda / Arrow Function;
-* Manipulação Estendida de Parâmetros;
-* Tempaltes de strings;
-* Propriedades aprimoradas do objeto;
-* Atribuição de desestruturação;
-* Módulos;
-* Classes;
-* Iteradores;
-* Funções Geradoras;
-* Coleções (Map, Set);
-* Novos métodos contruídos para várias classes;
-* Promises.
+* 1 Suporte para constantes;
+* 2 Bloco de escopo;
+* 3 Função Lambda / Arrow Function;
+* 4 Manipulação Estendida de Parâmetros;
+* 5 Tempaltes de strings;
+* 6 Propriedades aprimoradas do objeto;
+* 7 Atribuição de desestruturação;
+* 8 Módulos;
+* 9 Classes;
+* 10 Iteradores;
+* 11 Funções Geradoras;
+* 12 Coleções (Map, Set);
+* 13 Novos métodos contruídos para várias classes;
+* 14 Promises.
 
 ### Como executar os arquivos?
 
