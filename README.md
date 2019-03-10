@@ -7,8 +7,8 @@ Neste repositório há exemplos das modificações adicionadas ao Javascript a p
 * 1 Suporte para constantes;
 * 2 Bloco de escopo;
 * 3 Função Lambda / Arrow Function;
-* 4 Manipulação Estendida de Parâmetros;
-* 5 Tempaltes de strings;
+* 4 Rest parameters;
+* 5 Templates string;
 * 6 Propriedades aprimoradas do objeto;
 * 7 Atribuição de desestruturação;
 * 8 Módulos;
