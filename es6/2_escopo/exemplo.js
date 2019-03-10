@@ -1,1 +1,0 @@
-// No ES5, a declaração de variáveis sempre ocorria com a palavra reservada "var".
