@@ -4,20 +4,20 @@ Neste repositório há exemplos das modificações adicionadas ao Javascript a p
 
 ### Alguns novos recurso adicionados ao Javascript no ES6:
 
-* 1 Suporte para constantes;
-* 2 Bloco de escopo;
-* 3 Função Lambda / Arrow Function;
-* 4 Rest parameters;
-* 5 Template string;
-* 6 Propriedades aprimoradas do objeto;
-* 7 Atribuição de desestruturação;
-* 8 Módulos;
-* 9 Classes;
-* 10 Iteradores;
-* 11 Funções Geradoras;
-* 12 Coleções (Map, Set);
-* 13 Novos métodos contruídos para várias classes;
-* 14 Promises.
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/1_const">1 Suporte para constantes</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/2_escopo">2 Bloco de escopo</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/3_arrow_function">3 Função Lambda / Arrow Function</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/4_rest_parameter">4 Rest parameters</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/5_template_string">5 Template string</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/6_objetos">6 Propriedades aprimoradas do objeto</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/7_destructor">7 Atribuição de desestruturação</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/8_modulos">8 Módulos</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/9_classes">9 Classes</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/10_iteradores">10 Iteradores</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/11_funcao_geradora">11 Funções Geradoras</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/12_map_set">12 Coleções (Map, Set)</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/13_novo_metodos">13 Novos métodos contruídos para várias classes</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/es6/14_promises">14 Promises</a>
 
 ### Como executar os arquivos de exemplo de Javascript?
 
@@ -37,10 +37,10 @@ node file.js
 
 ### Alguns dos principais recursos que o Typescript aidiconou ao ES6:
 
-* 1 Possibilidade de tipagem de dados;
-* 2 Modificadores de acesso aos atributos e métodos de classes;
-* 3 Interfaces
-* 4 Decorators
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/typescript/1_tipagem">1 Possibilidade de tipagem de dados</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/typescript/2_modificadores_de_acesso">2 Modificadores de acesso aos atributos e métodos de classes</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/typescript/3_interfaces">3 Interfaces</a>
+* <a href="https://github.com/programmerGM/es5-es6/tree/master/typescript/4_decorators">4 Decorators</a>
 
 ### Como executar os arquivos de exemplo de Typescript?
 
